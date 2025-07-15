@@ -1,2 +1,4 @@
-rag_service/
-record_service/
+*/
+!auth_service/
+!agent_service/
+!docker-compose.yml
